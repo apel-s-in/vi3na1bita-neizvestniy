@@ -1,0 +1,66 @@
+{
+  "albumName": "Не всё равно",
+  "artist": "Витрина Разбита",
+  "albumYear": 2025,
+  "background": "img/bg.jpg",
+  "promoCode": "VITRINA2025",
+  "donateLink": "https://yoomoney.ru/to/ВАШ_СЧЁТ_ЯНДЕКС",
+  "socials": [
+    {"title": "YouTube", "url": "https://www.youtube.com/channel/UCbjm1J0V8RkWvNj4Z8-JIhA/"},
+    {"title": "Telegram", "url": "https://t.me/vitrina_razbita"},
+    {"title": "VK", "url": "https://vk.com/apelsinov"},
+    {"title": "TikTok", "url": "https://www.tiktok.com/@vi3na1bita"}
+  ],
+  "tracks": [
+    {
+      "uid": "NE-01",
+      "title": "4145",
+      "audio": "audio/01.mp3",
+      "audio_low": "audio_low/01.mp3",
+      "lyrics": "lyrics/01.json",
+      "size": 10.80,
+      "size_low": 6.52,
+      "fulltext": "lyrics/01.txt"
+    },
+    {
+      "uid": "NE-02",
+      "title": "А где-то там война",
+      "audio": "audio/02.mp3",
+      "audio_low": "audio_low/02.mp3",
+      "lyrics": "lyrics/02.json",
+      "size": 9.80,
+      "size_low": 5.92,
+      "fulltext": "lyrics/02.txt"
+    },
+    {
+      "uid": "NE-03",
+      "title": "Живи, Герой",
+      "audio": "audio/03.mp3",
+      "audio_low": "audio_low/03.mp3",
+      "lyrics": "lyrics/03.json",
+      "size": 8.90,
+      "size_low": 5.38,
+      "fulltext": "lyrics/03.txt"
+    },
+    {
+      "uid": "NE-04",
+      "title": "Путь к победе",
+      "audio": "audio/04.mp3",
+      "audio_low": "audio_low/04.mp3",
+      "lyrics": "lyrics/04.json",
+      "size": 11.24,
+      "size_low": 6.78,
+      "fulltext": "lyrics/04.txt"
+    },
+    {
+      "uid": "NE-05",
+      "title": "Добро и Зло",
+      "audio": "audio/05.mp3",
+      "audio_low": "audio_low/05.mp3",
+      "lyrics": "lyrics/05.json",
+      "size": 12.99,
+      "size_low": 7.84,
+      "fulltext": "lyrics/05.txt"
+    }
+  ]
+}
